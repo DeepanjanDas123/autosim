@@ -1,4 +1,4 @@
-# automata
+# A Comprehensive Guide to Automata and Computation Theory
 
 A modular C++ library for automata theory, including:
 
