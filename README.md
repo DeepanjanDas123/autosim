@@ -16,7 +16,6 @@ A modular C++ library for automata theory, including:
 ## Features
 
 - Clean, extensible interfaces for each automaton type
-- **No Boost dependency**; only STL
 - Ready for future algorithms: minimization, transformations, parsing, etc.
 
 ## Building
