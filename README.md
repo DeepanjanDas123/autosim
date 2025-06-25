@@ -12,6 +12,8 @@ A modular C++ library for automata theory, including:
 
 - `include/automata/`: Public headers
 - `src/`: Implementations
+- `CMakeLists.txt`: CMake Lists file
+- `other files`: some common functionalities and algorithms (transformation and certification) implemented using the library
 
 ## Features
 
